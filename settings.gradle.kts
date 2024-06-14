@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PatientPage"
+rootProject.name = "PharmAssist"
 include(":app")

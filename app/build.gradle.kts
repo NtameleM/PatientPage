@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.patientpage"
+    namespace = "com.example.pharmassist"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.patientpage"
+        applicationId = "com.example.pharmassist"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
